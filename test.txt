@@ -1,0 +1,12 @@
+using System;
+
+class test
+{
+   static void Main()
+    {
+	int x = 15;
+	int y = 20;
+	Console.Write(x + y);
+     }
+}
+EOF

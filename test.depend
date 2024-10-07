@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1727191571 source:c:\users\pc\desktop\fakultet\pmf\trecagod\kompilatori\testiram\test\main.cpp
+	<iostream>
+	<cctype>
+	<cstdio>
+	<cstdlib>
+	<map>
+	<memory>
+	<string>
+	<utility>
+	<fstream>
+	<vector>
+
